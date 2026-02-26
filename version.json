@@ -1,0 +1,9 @@
+{
+  "version": "3.0.2",
+  "build_number": 1,
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.2/ninjabiller-v3.0.2.apk",
+  "release_notes": "- Perbaikan bug minor\n- Peningkatan performa\n- Penambahan fitur auto-update",
+  "force_update": false,
+  "release_date": "2026-02-26",
+  "file_size": 25000000
+}
