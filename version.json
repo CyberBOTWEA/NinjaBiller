@@ -1,7 +1,7 @@
 {
   "version": "3.0.4",
   "version_app": "3.0.2",
-  "build_number": 3,
+  "build_number": 4,
   "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.4/ninjabiller-v3.0.4.apk",
   "release_notes": "- Perbaikan stabilitas update aplikasi (reuse APK download)\n- Perbaikan fallback cache pada halaman baca meter, baca ulang, dan pemutusan\n- Perbaikan GPS live update pada halaman peta baca ulang\n- Perbaikan detail data pelanggan sesuai field yang dibutuhkan",
   "force_update": false,
