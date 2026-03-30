@@ -1,10 +1,10 @@
 {
-  "version": "3.0.3",
+  "version": "3.0.4",
   "version_app": "3.0.2",
-  "build_number": 2,
-  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.3/ninjabiller-v3.0.3.apk",
-  "release_notes": "- Tambah Server 3 (Maxsi WebSocket) untuk cek tagihan\n- Perbaikan parsing response Server 3 (delimiter slash & koma)\n- Tambah opsi Server 3 pada halaman 601 Pemutusan\n- Perbaikan logika cache tagihan lunas\n- Tambah tombol Clear Cache di halaman Cek Tagihan & 601 Pemutusan\n- Tambah pull-to-refresh pada halaman 601 Pemutusan\n- Perbaikan tampilan card status lunas setelah pengecekan",
+  "build_number": 3,
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.4/ninjabiller-v3.0.4.apk",
+  "release_notes": "- Perbaikan stabilitas update aplikasi (reuse APK download)\n- Perbaikan fallback cache pada halaman baca meter, baca ulang, dan pemutusan\n- Perbaikan GPS live update pada halaman peta baca ulang\n- Perbaikan detail data pelanggan sesuai field yang dibutuhkan",
   "force_update": false,
-  "release_date": "2026-02-28",
+  "release_date": "2026-03-30",
   "file_size": 83000000
 }
