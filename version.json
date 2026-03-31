@@ -1,7 +1,7 @@
 {
   "version": "3.0.4",
   "version_app": "3.0.2",
-  "build_number": 4,
+  "build_number": 3,
   "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.4/ninjabiller-v3.0.4.apk",
   "release_notes": "- Perbaikan mekanisme update aplikasi: APK hasil download bisa dipakai ulang saat retry install\n- Perbaikan fallback cache (baca meter, baca ulang, dan pemutusan) saat server error\n- Perbaikan GPS live update pada halaman baca ulang dan pemutusan\n- Penambahan cooldown 5 menit untuk fitur Cek Semua Tagihan (anti spam request)\n- Perbaikan overflow UI pada dialog detail baca meter dan baca ulang\n- Perapihan field detail pelanggan sesuai kebutuhan operasional",
   "force_update": false,
