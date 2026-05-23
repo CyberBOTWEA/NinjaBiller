@@ -1,8 +1,8 @@
 {
-  "version": "3.0.5",
+  "version": "3.0.6",
   "version_app": "3.0.2",
   "build_number": 6,
-  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.5/ninjabiller-v3.0.5.apk",
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.6/ninjabiller-v3.0.6.apk",
   "release_notes": "- Pembaruan UI\n- Perbaikan bug pada cache tagihan lunas\n- Peningkatan performa\n- Tambah Fitur INTAG\n- Menerapkan Map Interaktif pada INTAG dan Baca Meter",
   "force_update": false,
   "release_date": "2026-05-23",
