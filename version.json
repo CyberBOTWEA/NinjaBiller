@@ -5,6 +5,6 @@
   "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.8/ninjabiller-v3.0.8.apk",
   "release_notes": "- Menambahkan dukungan untuk PLN Mobile (Server 4) serta meningkatkan fitur tagihan.\n- Memperbarui layar peta surat tugas dengan opsi server baru untuk PLN Mobile.\n- Meningkatkan layanan API agar dapat menangani permintaan ke API PLN Mobile, termasuk pengelolaan token dan pengecekan tagihan.\n- Menerapkan cache untuk data pelanggan dan data tagihan.\n- Memperbaiki format pesan WhatsApp untuk pengingat tagihan.\n- Memperbarui versi aplikasi ke 3.0.8 dan menyesuaikan metadata terkait.\n- Menambahkan pengujian unit untuk fitur baru dan fungsi yang sudah ada.",
   "force_update": false,
-  "release_date": "2026-05-24",
+  "release_date": "2026-08-21",
   "file_size": 83000000
 }
