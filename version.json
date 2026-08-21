@@ -1,8 +1,8 @@
 {
-  "version": "3.0.7",
+  "version": "3.0.8",
   "version_app": "3.0.2",
-  "build_number": 8,
-  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.7/ninjabiller-v3.0.7.apk",
+  "build_number": 9,
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.8/ninjabiller-v3.0.8.apk",
   "release_notes": "- Perbaiki UI\n- Perbaiki bug pada fitur Baca Meter Tunggal\n- Perbaikan Cache yang tidak tersimpan",
   "force_update": false,
   "release_date": "2026-05-24",
