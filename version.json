@@ -1,10 +1,10 @@
 {
-  "version": "3.0.8",
+  "version": "3.0.9",
   "version_app": "3.0.2",
-  "build_number": 8,
-  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.8/ninjabiller-v3.0.8.apk",
-  "release_notes": "- Menambahkan dukungan untuk PLN Mobile (Server 4) serta meningkatkan fitur tagihan.\n- Memperbarui layar peta surat tugas dengan opsi server baru untuk PLN Mobile.\n- Meningkatkan layanan API agar dapat menangani permintaan ke API PLN Mobile, termasuk pengelolaan token dan pengecekan tagihan.\n- Menerapkan cache untuk data pelanggan dan data tagihan.\n- Memperbaiki format pesan WhatsApp untuk pengingat tagihan.\n- Memperbarui versi aplikasi ke 3.0.8 dan menyesuaikan metadata terkait.\n- Menambahkan pengujian unit untuk fitur baru dan fungsi yang sudah ada.",
+  "build_number": 9,
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.9/ninjabiller-v3.0.9.apk",
+  "release_notes": "- Perbaikan timeout pada fitur Cek Semua Tagihan di 601.\n- Memperbarui titik realtime gps pada page Multi IDPEL.\n- Menghilangkan API pada Talangan.\n- Menerapkan cache untuk data pelanggan dan data tagihan.\n- Menambahkan shoutcut WA Blast pada tagihan 601.\n- Memperbarui logo aplikasi.\n- Menambahkan otomatis logout ketika sudah jam 12 malam.\n- Memperbarui Maps pada 601 agar singkron dengan data yang difilter",
   "force_update": false,
-  "release_date": "2026-08-21",
+  "release_date": "2026-08-30",
   "file_size": 83000000
 }
