@@ -1,8 +1,8 @@
 {
-  "version": "3.0.10",
+  "version": "3.0.9",
   "version_app": "3.0.2",
-  "build_number": 10,
-  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.10/ninjabiller-v3.0.10.apk",
+  "build_number": 9,
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.9/ninjabiller-v3.0.9.apk",
   "release_notes": "- Perbaikan bug cek tagihan dan cache tagihan",
   "force_update": false,
   "release_date": "2026-09-28",
