@@ -1,9 +1,9 @@
 {
-  "version": "3.1.0",
+  "version": "3.0.12",
   "version_app": "3.1.0",
-  "build_number": 11,
-  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.11/ninjabiller-v3.0.11.apk",
-  "release_notes": "- Cek tagihan 601 kini hanya memeriksa yang belum lunas, lebih stabil, dan dapat memakai server pilihan di Pengaturan.\n- Pembacaan status lunas dari server 3 dan 4 diperbaiki; gangguan server tidak dianggap lunas.\n- Peta 601 kini mendukung cetak tagihan dan WA Blast, termasuk pratinjau untuk pelanggan tanpa nomor WA.\n- Data aplikasi dapat dicadangkan dan dipulihkan; pencarian INTAG juga ditingkatkan.\n- Antarmuka dan pesan error menggunakan bahasa Indonesia tanpa menampilkan URL permintaan.\n- Cache tagihan dibersihkan saat logout, sementara riwayat stan dan talangan tetap tersimpan.",
+  "build_number": 12,
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.12/ninjabiller-v3.0.12.apk",
+  "release_notes": "- Update versi aplikasi ke 3.1.0",
   "force_update": false,
   "release_date": "2026-09-28",
   "file_size": 91818945
