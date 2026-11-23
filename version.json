@@ -1,10 +1,10 @@
 {
-  "version": "3.0.13",
-  "version_app": "3.1.1",
-  "build_number": 13,
-  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.13/ninjabiller-v3.0.13.apk",
-  "release_notes": "- Update versi aplikasi ke 3.1.1\n- Perbaikan bug pada Backup & Restore\n- Perbaikan bug pada fitur Pengaturan",
+  "version": "3.0.14",
+  "version_app": "3.1.0",
+  "build_number": 14,
+  "download_url": "https://github.com/CyberBOTWEA/NinjaBiller/releases/download/v3.0.14/ninjabiller-v3.0.14.apk",
+  "release_notes": "- Cek tagihan 601 mempertahankan nominal asli dari API 601 pada daftar, peta, dan dialog hasil\n- Penambahan Server 4 KlikMBC untuk cek tagihan manual dan massal dengan dukungan kartu lunas\n- Kotak menu dashboard sedikit lebih tinggi agar nama menu tidak terpotong\n- Kotak detail Multi IDPEL lebih kecil dengan format Label: nilai yang ringkas di atas pin GPS\n- OCR kamera membaca area di dalam kotak panduan dan memperhitungkan orientasi foto\n- Penghapusan fitur FSO\n- Penambahan ACMT, 603, OTP, antrean offline, dan sinkronisasi\n- Perbaikan kartu status lunas pada Server 3/Maxsi",
   "force_update": false,
-  "release_date": "2026-10-26",
-  "file_size": 91818945
+  "release_date": "2026-11-23",
+  "file_size": 99336384
 }
